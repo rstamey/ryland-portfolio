@@ -43,15 +43,15 @@ footer {
 
 header {
   position: fixed;
-  border-bottom: 10px solid #DDAF94;
+  border-bottom: 10px solid #000000;
 }
 
 footer {
   position: absolute;
   margin-top: 0;
   bottom: 0;
-  border-bottom: 10px solid #4F4846;
-  color: #FDF8F5;    
+  border-bottom: 10px solid #000000;
+  color: #f0eae6;    
 }
 
 figure {
@@ -60,13 +60,13 @@ figure {
 
 img {
   display: block;
-  margin: 20px auto;
+  margin: 0 auto;
 }
 
 section {
   margin-bottom: 0;
   padding: 20px 10px 40px 10px;
-  border-top: 3px solid #DDAF94;
+  border-top: 3px solid #000000;
   background-color:  #E8CEBF;
 }
 
